@@ -30,6 +30,7 @@ time, mark, audio, video {
  * elements, but we still want to reset the type */
 input, textarea, select, button {
     font: inherit;
+    font-size: 100%;
 }
 
 /* set absolutely everything to inherit its box-sizing, and then set the
