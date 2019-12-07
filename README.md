@@ -1,7 +1,14 @@
 # modern-reset
-A modern CSS reset
+
+> A modern CSS reset
 
 Other solutions have been invented since, but I still think [Eric Meyer's CSS Reset](http://meyerweb.com/eric/tools/css/reset/) is the best way of approaching the problem of getting a predictable baseline across browsers. I've adapted Eric's original reset for the modern browser landscape.
+
+## Install
+
+```
+$ npm install modern-reset
+```
 
 ## Changes
 
